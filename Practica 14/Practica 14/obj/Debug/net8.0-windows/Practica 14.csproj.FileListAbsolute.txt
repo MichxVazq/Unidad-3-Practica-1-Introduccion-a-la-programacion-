@@ -1,0 +1,16 @@
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica_14.Form1.resources
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.csproj.GenerateResource.cache
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.AssemblyInfoInputs.cache
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.AssemblyInfo.cs
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.csproj.CoreCompileInputs.cache
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\bin\Debug\net8.0-windows\Practica 14.exe
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\bin\Debug\net8.0-windows\Practica 14.deps.json
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\bin\Debug\net8.0-windows\Practica 14.runtimeconfig.json
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\bin\Debug\net8.0-windows\Practica 14.dll
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\bin\Debug\net8.0-windows\Practica 14.pdb
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.dll
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\refint\Practica 14.dll
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.pdb
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\Practica 14.genruntimeconfig.cache
+D:\Unidad 3, Practica 1\Practica 14\Practica 14\obj\Debug\net8.0-windows\ref\Practica 14.dll
